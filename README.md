@@ -1,10 +1,19 @@
-# GitHub Codespaces ♥️ Next.js
+# Highfives challange
 
-Welcome to your shiny new Codespace running Next.js! We've got everything fired up and running for you to explore Next.js.
+As a senior full stack engineer you have to implement a new app for the company.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+This application has a very simple idea in it's core: give your coleagues highfives, even if you cant
+reach them physically.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+To do so the app has to satisfy the following requirements
+1) Users should be able to login with name and password
+2) When the user is logged in the main application page becomes available and it has
+- a main feed of highfives (a list of historical records)
+- a text field where you can type in your highfive message
+- a list of top highfived users with highfive count
+3) ???
+4) profit
+
 
 To run this application:
 
